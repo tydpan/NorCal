@@ -1,0 +1,11 @@
+_BASE_: "Base-NorCal.yaml"
+
+MODEL:
+  WEIGHTS: "https://dl.fbaipublicfiles.com/detectron2/LVISv0.5-InstanceSegmentation/mask_rcnn_R_50_FPN_1x/144219072/model_final_571f7c.pkl"
+
+TEST:
+  CALIBRATION:
+    METHOD: "gamma" # gamma or cb
+    WITH: "exps" # logits, exps, probs
+    GAMMA: 0.0 # Nc^gamma
+    RENORM: True
