@@ -2,7 +2,7 @@
 ## Normalization Calibration (NorCal) for Long-Tailed Object Detection and Instance Segmentation
 [**On Model Calibration for Long-Tailed Object Detection and Instance Segmentation**](https://arxiv.org/abs/2107.02170). 
 
-In Advances in Neural Information Processing Systems (NeurIPS), 2021.
+Advances in Neural Information Processing Systems (NeurIPS), 2021.
 
 [Tai-Yu Pan*](https://scholar.google.com/citations?user=M1_TnJsAAAAJ&hl=en&authuser=5), [Cheng Zhang*](https://czhang0528.github.io/), 
 [Yandong Li](https://cold-winter.github.io/), [Hexiang Hu](http://www.hexianghu.com/), [Dong Xuan](https://web.cse.ohio-state.edu/~xuan.3/), 
