@@ -1,5 +1,8 @@
 # NorCal in Detectron2
-[**On Model Calibration for Long-Tailed Object Detection and Instance Segmentation**](https://arxiv.org/abs/2107.02170). In Neural Information Processing Systems (NeurIPS), 2021.
+[**On Model Calibration for Long-Tailed Object Detection and Instance Segmentation**](https://arxiv.org/abs/2107.02170). 
+
+In Neural Information Processing Systems (NeurIPS), 2021.
+
 [Tai-Yu Pan*](https://scholar.google.com/citations?user=M1_TnJsAAAAJ&hl=en&authuser=5), [Cheng Zhang*](https://czhang0528.github.io/), 
 [Yandong Li](https://cold-winter.github.io/), [Hexiang Hu](http://www.hexianghu.com/), [Dong Xuan](https://web.cse.ohio-state.edu/~xuan.3/), 
 [Soravit Changpinyo](http://www-scf.usc.edu/~schangpi/), [Boqing Gong](http://boqinggong.info/), [Wei-Lun Chao](https://sites.google.com/view/wei-lun-harry-chao). 
