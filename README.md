@@ -1,4 +1,5 @@
-# Normalization Calibration (NorCal) for Long-Tailed Object Detection and Instance Segmentation
+# NorCal
+## Normalization Calibration (NorCal) for Long-Tailed Object Detection and Instance Segmentation
 [**On Model Calibration for Long-Tailed Object Detection and Instance Segmentation**](https://arxiv.org/abs/2107.02170). 
 
 In Neural Information Processing Systems (NeurIPS), 2021.
