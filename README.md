@@ -15,6 +15,14 @@ In this paper, we investigate a largely overlooked approach -- post-processing c
 ## Installation
 Install Detectron2 following [the instructions](https://detectron2.readthedocs.io/tutorials/install.html).
 
+## Evaluation
+
+Model evaluation can be done similarly:
+```bash
+cd /path/to/detectron2/projects/NorCal
+python train_net.py --config-file configs/lvis_v0.5_mask_rcnn_R_50_FPN.yaml --eval-only MODEL.WEIGHTS /path/to/model_checkpoint TEST.CALIBRATION.GAMMA gamma
+```
+
 ## Citation
 Please cite with the following bibtex if you find it useful.
 ```
